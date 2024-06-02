@@ -10,13 +10,13 @@ Grey = NULL
 Creature
 
 		<card>
-			<name>a</name>
+			<name></name>
 			<text>Placeholder</text>
 			<prop>
 				<type>Creature - XXXXX</type>
 				<maintype>Creature</maintype>
 				<manacost>00</manacost>
-				<colors>G</colors>
+				<colors></colors>
 				<pt>3/4</pt>
 			</prop>
 			<set num="X" rarity="legendary">URN</set>
@@ -32,7 +32,7 @@ Action
 				<type>Action</type>
 				<maintype>Sorcery</maintype>
 				<manacost>00</manacost>
-				<colors>G</colors>
+				<colors></colors>
 			</prop>
 			<set num="X" rarity="legendary">URN</set>
 			<tablerow>3</tablerow>
@@ -46,7 +46,7 @@ Item
 				<type>Item</type>
 				<maintype>Artifact</maintype>
 				<manacost>00</manacost>
-				<colors>G</colors>
+				<colors></colors>
 			</prop>
 			<set num="X" rarity="legendary">URN</set>
 			<tablerow>1</tablerow>
@@ -61,7 +61,7 @@ Location
 				<type>Location</type>
 				<maintype>Land</maintype>
 				<manacost>00</manacost>
-				<colors>G</colors>
+				<colors></colors>
 				<pt>3/4</pt>
 			</prop>
 			<set num="X" rarity="legendary">URN</set>
@@ -77,7 +77,7 @@ Action - Song
 				<type>Action - Song</type>
 				<maintype>Sorcery</maintype>
 				<manacost>00</manacost>
-				<colors>G</colors>
+				<colors></colors>
 			</prop>
 			<set num="X" rarity="legendary">URN</set>
 			<tablerow>3</tablerow>

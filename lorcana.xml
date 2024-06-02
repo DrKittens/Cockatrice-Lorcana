@@ -9690,5 +9690,388 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 			<set num="136" rarity="legendary">URN</set>
 			<tablerow>3</tablerow>
 		</card>
+		<card>
+			<name>Anna - Braving the Storm</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Queen</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="137" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anna - True-Hearted</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Queen Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="138" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ariel - Treasure Collector</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>U</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="139" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aurora - Lore Guardian</name>
+			<text>Shift 2 
+			(You may pay 2 ink to play this on top of one of your characters named Aurora.)
+			
+			GUARDIAN Opponents can’t choose your items.
+
+			ROYAL ASSORTMENT {T} one of your items – look at the top card of your deck. 
+			Put it on either the top or the bottom of your deck.</text>
+			<prop>
+				<type>Creature - Floodborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="140" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aurora - Tranquil Princess</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="141" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dang Hu - Talon Chief</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>U</colors>
+				<pt>3/5</pt>
+			</prop>
+			<set num="142" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fa Li - Mulan's Mother</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Mentor</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>U</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="143" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flounder - Collector's Companion</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="144" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hades - Meticulous Plotter</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Villain Deity</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>3/6</pt>
+			</prop>
+			<set num="145" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hans - Noble Scoundrel</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>3/2</pt>
+			</prop>
+			<set num="146" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iduna - Caring Mother</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Mentor Queen</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="147" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>John Silver - Terror of the Realm</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Villain Alien Pirate Captain</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<colors>U</colors>
+				<pt>8/8</pt>
+			</prop>
+			<set num="148" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Olaf - Carrot Enthusiast</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="149" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Olaf - Trusting Companion</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>U</colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="150" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pascal - Inquisitive Pet</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="151" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince Phillip - Gallant Defender</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="152" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rapunzel - Appreciative Artist</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>U</colors>
+				<pt>3/5</pt>
+			</prop>
+			<set num="153" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scuttle - Expert on Humans</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="154" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sisu - Wise Friend</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Deity Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>U</colors>
+				<pt>6/6</pt>
+			</prop>
+			<set num="155" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Queen - Diviner</name>
+			<text>CONSULT THE GRIMOIRE {T} – Look at the top 4 cards of your deck. 
+			You may reveal an item card and put it into your hand. If that item card 
+			costs 3 or less, you may play that item for free and it enters play exerted. 
+			Put the rest on the bottom of your deck in any order.</text>
+			<prop>
+				<type>Creature - Dreamborn Villain Queen Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="156" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Transformed Chef - Castle Stove</name>
+			<text>SMOOTH SMALL DISHES 
+			When you play this character, remove up to 2 damage from chosen character.</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="157" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Triton - Champion of Atlantica</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn King</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<colors>U</colors>
+				<pt>7/9</pt>
+			</prop>
+			<set num="158" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Triton - Discerning King</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn King</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="159" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Triton - Young Prince</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="160" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tuk Tuk - Curious Partner</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="161" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Dig A Little Deeper</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>8</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="162" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Glaner</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="163" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Seldom All They Seem</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="164" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name></name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>00</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="X" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
     </cards>
 </cockatrice_carddatabase>
