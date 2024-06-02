@@ -9167,11 +9167,11 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 			<prop>
 				<type>Action</type>
 				<maintype>Sorcery</maintype>
-				<manacost>00</manacost>
+				<manacost>1</manacost>
 				<colors>G</colors>
 			</prop>
-			<set num="1" rarity="legendary">URN</set>
-			<tablerow>96</tablerow>
+			<set num="96" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
 		</card>
     	<card>
 			<name>We Don't Talk About Bruno</name>
@@ -10559,7 +10559,5 @@ Banish all items.</text>
 			<set num="204" rarity="legendary">URN</set>
 			<tablerow>3</tablerow>
 		</card>
-
-
     </cards>
 </cockatrice_carddatabase>
