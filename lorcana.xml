@@ -7914,5 +7914,885 @@ Deal 2 damage to each opposing character.</text>
 			<set num="204" rarity="legendary">INK</set>
 			<tablerow>3</tablerow>
 		</card>
+		<card>
+			<name>Agustin Madrigal</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Mentor Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>W</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="1" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alma Madrigal - Family Matriarch</name>
+			<text>ALL AT THE TABLE When you play this character, look at your deck. You may 
+			reveal a Madrigal character card. Shuffle your deck and put that card on top 
+			of your deck. 
+			
+			“Let’s be clear Abuela runs this show“ – Mirabel</text>
+			<prop>
+				<type>Creature - Storyborn Mentor Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="2" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ariel - Singing Mermaid</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="3" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cinderella - Melody Weaver</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>W</colors>
+				<pt>1/5</pt>
+			</prop>
+			<set num="4" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cogsworth - Majordomo</name>
+			<text>AS YOU WERE! Whenever this character quests,
+			you may give chosen character -2P until the 
+			start of your next turn</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="5" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daisy Duck - Lovely Lady</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>W</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="6" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daisy Duck - Musketeer Spy</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Musketeer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="7" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Donald Duck - Musketeer Soldier</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Musketeer</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="8" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Felix Madrigal - Fun-Loving Family Man</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<colors>W</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="9" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gaston - Despicable Dealer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="10" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Golden Harp - Enchanter of the Land</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>W</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="11" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Goofy Musketeer Swordsman</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Musketeer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="12" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Julieta Madrigal - Excellent Cook</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Mentor Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="13" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Max - Loyal Sheepdog</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>4/3</pt>
+			</prop>
+			<set num="14" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mickey MOuse - Leader of the Band</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>2/5</pt>
+			</prop>
+			<set num="15" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mickey Mouse - Musketeer Captain</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero Musketeer Captain</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>W</colors>
+				<pt>3/6</pt>
+			</prop>
+			<set num="16" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Minnie Mouse - Musketeer Champion</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Musketeer</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>W</colors>
+				<pt>1/5</pt>
+			</prop>
+			<set num="17" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mirabel Madrigal - Gift of the Family</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>W</colors>
+				<pt>3/5</pt>
+			</prop>
+			<set num="18" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mirabel Madrigal - Prophecy Finder</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>19</manacost>
+				<colors>W</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="19" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pluto - Rescue Dog</name>
+			<text>TO THE RESCUE When you play this character, you may remove
+			up to 3 damage from chosen character</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>W</colors>
+				<pt>4/5</pt>
+			</prop>
+			<set num="20" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince Eric - Seafaring Prince</name>
+			<text>Bodyguard (This character may enter play exerted. An opposing character
+			who challenges one of your characters must choose one with Bodyguard if able.)</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="21" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince Eric - Ursula's Groom</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>W</colors>
+				<pt>5/5</pt>
+			</prop>
+			<set num="22" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stitch - Alien Dancer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="23" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ursula - Eric's Bride</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Villain Princess Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="24" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ursula - Vanessa</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="25" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Bruno's Return</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="26" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>First Aid</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="27" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Look At This Family</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>7</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="28" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Lost In The Woods</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="29" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		
+    	<card>
+			<name>Sign The Scroll</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="30" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Miracle Candle</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="31" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Record Player</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="32" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Atlantica - Concert Hall</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>1</manacost>
+				<colors>W</colors>
+				<pt>2/6</pt>
+			</prop>
+			<set num="33" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Underworld - River Styx</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+				<pt>2/6</pt>
+			</prop>
+			<set num="34" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Antonio Madrigal - Animal Expert</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="35" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Belle - Accomplished Mystic</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero Princess Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>B</colors>
+				<pt>4/4</pt>
+			</prop>
+			<set num="36" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Belle - Untrained Mystic</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="37" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bruno Madrigal - Out of the Shadows</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>B</colors>
+				<pt>4/5</pt>
+			</prop>
+			<set num="38" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bruno Madrigal - Undetected Uncle</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="39" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Camilo Madrigal - Prankster</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>2/5</pt>
+			</prop>
+			<set num="40" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dolores Madrigal - Easy Listener</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="41" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elsa - Storm Chaser</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Queen Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="42" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flotsam - Ursula's 'Baby'</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>4/2</pt>
+			</prop>
+			<set num="43" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flotsam and Jetsam - Entangling Eels</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>B</colors>
+				<pt>5/5</pt>
+			</prop>
+			<set num="44" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Isabela Madrigal - Golden Child</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>B</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="45" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jetsam - Ursula's 'Baby'</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="46" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Luisa Madrigal - Magically Strong One</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>4/3</pt>
+			</prop>
+			<set num="47" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magic broom - Illuminary Keeper</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Broom</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>B</colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="48" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magic Broom - Lively Sweeper</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Broom</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="49" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magical Maid - Feather Duster</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="50" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Marshmallow - Terrifying Snowman</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>0/3</pt>
+			</prop>
+			<set num="51" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mrs Potts - Enchanted Teapot</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="52" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pepa Madrigal - Weather Maker</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>B</colors>
+				<pt>1/5</pt>
+			</prop>
+			<set num="53" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Peter Pan - Shadow Finder</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="54" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pico - Helpful Toucan</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+				<pt>3/2</pt>
+			</prop>
+			<set num="55" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tick-Tock - Ever-Present Pursuer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>B</colors>
+				<pt>4/7</pt>
+			</prop>
+			<set num="56" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ursula - Mad Sea Witch</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Villain Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="57" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ursula - Sea Witch Queen</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Villain Queen Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>B</colors>
+				<pt>4/7</pt>
+			</prop>
+			<set num="58" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yen Sid - Powerful Sorcerer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="59" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Poor Unfortunate Soul</name>
+			<text>(A Character with cost 2 or more can {t} to sing this song for free.)
+			Return a character, item or location with cost 2 or less to their player's hand.</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="60" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Second Star To The Right</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>10</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="61" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Swing Into Action</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="62" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Ursula's Plan</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="63" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mystical Rose</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="64" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rose Lantern</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="65" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Triton's Trident</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="66" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Casa Madrigal - Casita</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>1</manacost>
+				<colors>B</colors>
+				<pt>1/6</pt>
+			</prop>
+			<set num="67" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ursula's Lair - Eye of the Storm</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>2/6</pt>
+			</prop>
+			<set num="68" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
     </cards>
 </cockatrice_carddatabase>

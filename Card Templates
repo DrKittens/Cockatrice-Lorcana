@@ -1,0 +1,86 @@
+Yellow = W
+Red = R
+Blue = U
+Purple = B
+Green = G
+Grey = NULL
+
+<set num="X" rarity="legendary">URN</set>
+
+Creature
+
+		<card>
+			<name></name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - XXXXX</type>
+				<maintype>Creature</maintype>
+				<manacost>00</manacost>
+				<colors>W</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="X" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+
+Action
+
+    	<card>
+			<name></name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>00</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="X" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+Item
+
+		<card>
+			<name></name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>00</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="X" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+
+Location
+
+		<card>
+			<name></name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>00</manacost>
+				<colors>W</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="X" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+
+Action - Song
+
+		<card>
+			<name></name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>00</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="X" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+
+
