@@ -4492,7 +4492,7 @@ Deal 2 damage to each opposing character.</text>
 			<tablerow>3</tablerow>
 		</card>
     	<card>
-			<name>What Did You Call Me?</name>
+			<name>What Did You Call Me</name>
 			<text>Placeholder</text>
 			<prop>
 				<type>Action</type>
@@ -4986,6 +4986,19 @@ Deal 2 damage to each opposing character.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
+			<name>Beast - Selfless Protector</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors></colors>
+				<pt>2/8</pt>
+			</prop>
+			<set num="172" rarity="legendary">FLD</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
 			<name>Beast - Tragic Hero</name>
 			<text>Placeholder</text>
 			<prop>
@@ -5404,7 +5417,7 @@ Deal 2 damage to each opposing character.</text>
 				<colors>W</colors>
 				<pt>2/3</pt>
 			</prop>
-			<set num="4a" rarity="legendary">INK</set>
+			<set num="4" rarity="legendary">INK</set>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
@@ -6671,7 +6684,7 @@ Deal 2 damage to each opposing character.</text>
 				<colors>R</colors>
 				<pt>6/5</pt>
 			</prop>
-			<set num="X" rarity="legendary">INK</set>
+			<set num="104" rarity="legendary">INK</set>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
@@ -7021,18 +7034,6 @@ Deal 2 damage to each opposing character.</text>
 			<set num="131" rarity="legendary">INK</set>
 			<tablerow>3</tablerow>
 		</card>
-    	<card>
-			<name></name>
-			<text>Placeholder</text>
-			<prop>
-				<type>Action</type>
-				<maintype>Sorcery</maintype>
-				<manacost>00</manacost>
-				<colors>R</colors>
-			</prop>
-			<set num="X" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
-		</card>
 		<card>
 			<name>Maui's Fish Hook</name>
 			<text>Placeholder</text>
@@ -7080,7 +7081,7 @@ Deal 2 damage to each opposing character.</text>
 				<colors>R</colors>
 				<pt>3/8</pt>
 			</prop>
-			<set num="135" rarity="legendary">INK</set>
+			<set num="136" rarity="legendary">INK</set>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
