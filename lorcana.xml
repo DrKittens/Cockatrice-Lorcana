@@ -3604,7 +3604,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Creature - Floodborn Villain Sorcerer</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
+				<manacost>6</manacost>
 				<colors>B</colors>
 				<pt>3/4</pt>
 			</prop>
@@ -5043,7 +5043,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Creature - Dreamborn Hero</type>
 				<maintype>Creature</maintype>
-				<manacost>0</manacost>
+				<manacost>5</manacost>
 				<colors></colors>
 				<pt>6/5</pt>
 			</prop>
@@ -5426,7 +5426,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Creature - Storyborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>0</manacost>
+				<manacost>4</manacost>
 				<colors>W</colors>
 				<pt>3/4</pt>
 			</prop>
@@ -5834,7 +5834,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Creature - Dreamborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>0</manacost>
+				<manacost>1</manacost>
 				<colors>B</colors>
 				<pt>3/4</pt>
 			</prop>
@@ -6862,7 +6862,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Creature - Storyborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>00</manacost>
+				<manacost>2</manacost>
 				<colors>R</colors>
 				<pt>2/3</pt>
 			</prop>
@@ -7103,7 +7103,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Creature - Storyborn Alien Captain</type>
 				<maintype>Creature</maintype>
-				<manacost>00</manacost>
+				<manacost>3</manacost>
 				<colors>U</colors>
 				<pt>3/4</pt>
 			</prop>
@@ -7116,7 +7116,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Creature - Dreamborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>00</manacost>
+				<manacost>3</manacost>
 				<colors>U</colors>
 				<pt>2/3</pt>
 			</prop>
@@ -7732,7 +7732,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Creature - Floodborn Hero</type>
 				<maintype>Creature</maintype>
-				<manacost>190</manacost>
+				<manacost>5</manacost>
 				<colors></colors>
 				<pt>3/6</pt>
 			</prop>
@@ -8160,7 +8160,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Creature - Storyborn Hero Madrigal</type>
 				<maintype>Creature</maintype>
-				<manacost>19</manacost>
+				<manacost>2</manacost>
 				<colors>W</colors>
 				<pt>2/2</pt>
 			</prop>
