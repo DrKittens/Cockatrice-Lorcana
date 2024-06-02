@@ -3985,7 +3985,7 @@ Deal 2 damage to each opposing character.</text>
 			<name>Ratigan - Criminal Mastermind</name>
 			<text>Placeholder</text>
 			<prop>
-				<type>Creature - XXXXX</type>
+				<type>Creature - Dreamborn Villain</type>
 				<maintype>Creature</maintype>
 				<manacost>4</manacost>
 				<colors>G</colors>
@@ -6665,7 +6665,7 @@ Deal 2 damage to each opposing character.</text>
 			<name>Ariel - Adventurous Collector</name>
 			<text>Placeholder</text>
 			<prop>
-				<type>Creature - XXXXX</type>
+				<type>Creature - Dreamborn Hero Princess</type>
 				<maintype>Creature</maintype>
 				<manacost>3</manacost>
 				<colors>R</colors>
@@ -8978,19 +8978,6 @@ Deal 2 damage to each opposing character.</text>
 				<pt>3/3</pt>
 			</prop>
 			<set num="82" rarity="legendary">URN</set>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name></name>
-			<text>Placeholder</text>
-			<prop>
-				<type>Creature - XXXXX</type>
-				<maintype>Creature</maintype>
-				<manacost>00</manacost>
-				<colors>G</colors>
-				<pt>3/4</pt>
-			</prop>
-			<set num="X" rarity="legendary">URN</set>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
