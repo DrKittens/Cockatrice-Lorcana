@@ -8794,5 +8794,901 @@ Deal 2 damage to each opposing character.</text>
 			<set num="68" rarity="legendary">URN</set>
 			<tablerow>3</tablerow>
 		</card>
+		<card>
+			<name>Cri-Kee - Lucky Cricket</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="69" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Diable - Devoted Herald</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="70" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Diable - Maleficent's Spy</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>G</colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="71" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gunther - Interior Designer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="72" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gus - Champion of Cheese</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="73" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hades - Double Dealer</name>
+			<text>GET DOWN TO BUSINESS {T}, Banish chosen character of yours - 
+			Play another character from your hand with the same name.</text>
+			<prop>
+				<type>Creature - Storyborn Villain Deity</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="74" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>HeiHei - Bumbling Rooster</name>
+			<text>LET's FATTEN YOU UP When you play this character, if an opponent has 
+			more cards in their inkwell than you, you may put the top card of your deck 
+			into your inkwell facedown and exerted</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="75" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hera - Queen of the Gods</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Queen Daily</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="76" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jaq - Connoisseur of Climbing</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="77" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jasmine - Desert Warrior</name>
+			<text>SMART MANEUVER When you play this character and each tme she is
+			challenged, each opponent chooses and discards a card.</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="78" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Megara - Captivating Cynic</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>3/6</pt>
+			</prop>
+			<set num="79" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Megara - Liberated One</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+				<pt>4/4</pt>
+			</prop>
+			<set num="80" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pain - Immortal Sidekick</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="81" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Panic - Immortal Sidekick</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="82" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - XXXXX</type>
+				<maintype>Creature</maintype>
+				<manacost>00</manacost>
+				<colors>G</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="X" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pegasus - Cloud Racer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="83" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pegasus - Gift for Hercules</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>G</colors>
+				<pt>1/1</pt>
+			</prop>
+			<set num="84" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pete - Born to Cheat</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Villain Musketeer</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="85" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pete - Rotton Guy</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Musketeer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>1/5</pt>
+			</prop>
+			<set num="86" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince Phillip - Vanquisher of Foes</name>
+			<text>Shift 6 You may pay 6 ⬡ to play this on top of one of your characters named Prince Phillip.)
+Evasive (Only characters with Evasive can challenge this character.)
+STRIKE TO THE HEART When you play this character, banish all opposing characters with at least 1 damage counter.</text>
+			<prop>
+				<type>Creature - Floodborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<colors>G</colors>
+				<pt>6/6</pt>
+			</prop>
+			<set num="87" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince Phillip - Warden of the Woods</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="88" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Fates - Only One Eye</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>G</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="89" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Muses - Proclaimers of Heroes</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="90" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tor - Florist</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+				<pt>4/7</pt>
+			</prop>
+			<set num="91" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zeus - Mr Lightning Bolts</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn King Deity</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>0/5</pt>
+			</prop>
+			<set num="92" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Dodge!</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="93" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Make The Potion</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="94" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Under The Sea</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>8</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="95" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Ursula's Trickery</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>00</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="1" rarity="legendary">URN</set>
+			<tablerow>96</tablerow>
+		</card>
+    	<card>
+			<name>We Don't Talk About Bruno</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="97" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hidden Inkcaster</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="98" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Signed Contract</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="99" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vision Slab</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="100" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hidden Cove - Tranquil Haven</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>1</manacost>
+				<colors>G</colors>
+				<pt>1/6</pt>
+			</prop>
+			<set num="101" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ursula's Garden - Full of the Unfortunate</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>2/7</pt>
+			</prop>
+			<set num="102" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beast - Wounded</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>2/6</pt>
+			</prop>
+			<set num="103" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Benja - Bold Uniter</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn King Mentor</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>5/3</pt>
+			</prop>
+			<set num="104" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fa Zhou - Mulan's Father</name>
+			<text>WAR WOUND This character cannot challenge.
+			HEAD OF FAMILY {T} - Ready chosen character named Mulan. 
+			They can't quest for the rest of the turn.</text>
+			<prop>
+				<type>Creature - Storyborn Mentor</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+				<pt>0/4</pt>
+			</prop>
+			<set num="105" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flynn Rider - Frenemy</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="106" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Goofy - Super Goof</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="107" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hercules - Clumsy Kid</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="108" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hercules - Daring Demigod</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>R</colors>
+				<pt>7/3</pt>
+			</prop>
+			<set num="109" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Khan - Beloved Steed</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+				<pt>3/2</pt>
+			</prop>
+			<set num="110" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Li Shang - General's Son</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="111" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Li Shang - Valorous General</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>3/2</pt>
+			</prop>
+			<set num="112" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lumiere - Fiery Friend</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="113" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mulan - Elite Archer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>R</colors>
+				<pt>2/6</pt>
+			</prop>
+			<set num="114" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mulan - Enemy of Entaglement</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="115" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mulan - Injured Soldier</name>
+			<text>WOUNDED IN BATTLE This character enters play with 2 damage.</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="116" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Namaari - Heir of Fang</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="117" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nessus - River Guardian</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>R</colors>
+				<pt>7/5</pt>
+			</prop>
+			<set num="118" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Noi - Acrobatic Baby</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>4/4</pt>
+			</prop>
+			<set num="119" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pegasus - Flying Steed</name>
+			<text>Evasive</text>
+			<prop>
+				<type>Creature - Storyborn Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+				<pt>3/1</pt>
+			</prop>
+			<set num="120" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raya - Fierce Protector</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="121" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raya - Guardian of the Dragon Gem</name>
+			<text>WE MUST JOIN FORCES 
+			When you play this character, ready chosen character of yours at a location.
+			They can’t quest for the rest of this turn.</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="122" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sisu - Daring Visitor</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Deity Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>1/1</pt>
+			</prop>
+			<set num="123" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sisu - Emboldened Warrior</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Deity Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="124" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sisu - Empowering Sibling</name>
+			<text>Shift 6 
+			You may pay 6 ⬡ to play this on top of one of your characters named Sisu.)
+			
+			LET ME HANDLE THIS! 
+			When you play this character, banish all opposing characters with 2 ※ or less.</text>
+			<prop>
+				<type>Creature - Floodborn Hero Deity Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<colors>R</colors>
+				<pt>5/4</pt>
+			</prop>
+			<set num="125" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tong - Survivor</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>3/6</pt>
+			</prop>
+			<set num="126" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tik Tik - Lively Partner</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="127" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>A Pirate's Life</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="128" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Be King Undisputed</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="129" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Brawl</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="130" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Imperial Proclamation</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="131" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Medallion Weights</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="132" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Plank</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="133" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vitalisphere</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="134" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Snuggly Duckling - Disreputable Pub</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+				<pt>2/9</pt>
+			</prop>
+			<set num="135" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Training Grounds - Impossible Pillar</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+				<pt>1/5</pt>
+			</prop>
+			<set num="136" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
     </cards>
 </cockatrice_carddatabase>
