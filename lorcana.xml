@@ -10062,16 +10062,504 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 			<tablerow>3</tablerow>
 		</card>
     	<card>
-			<name></name>
+			<name>Treasures Untold</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="165" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Field of Ice</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="166" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Great Stone Dragon</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="167" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ice Block</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="168" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ariel's Grotto - A Secret Place</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+				<pt>2/7</pt>
+			</prop>
+			<set num="169" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Winter Camp - Medical Tent</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>1/8</pt>
+			</prop>
+			<set num="170" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aladdin - Brave Rescuer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="171" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aladdin - Resolute Swordsman</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors></colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="172" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arges - The Cyclops</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Titan</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+				<pt>4/1</pt>
+			</prop>
+			<set num="173" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ariel - Determined Mermaid</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="174" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ariel - Sonic Warrior</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors></colors>
+				<pt>3/8</pt>
+			</prop>
+			<set num="175" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beast - Thick-Skinned</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="176" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chi-Fu - Imperial Advisor</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>0/5</pt>
+			</prop>
+			<set num="177" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chien-Po - Imperial Soldier</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors></colors>
+				<pt>4/7</pt>
+			</prop>
+			<set num="178" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Donald Duck - Buccaneer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Pirate Captain</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="179" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hercules - Beloved Hero</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors></colors>
+				<pt>6/5</pt>
+			</prop>
+			<set num="180" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lefou - Opportunistic Flunky</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="181" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Li Shang - Imperial Captain</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Captain</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors></colors>
+				<pt>5/5</pt>
+			</prop>
+			<set num="182" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ling - Imperial Soldier</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="183" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Luisa Madrigal - Rock of the Family</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="184" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magic Broom - Aerial Cleaner</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Broom</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="185" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mickey Mouse - Playful Sorcerer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors></colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="187" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mickey Mouse - Standard Bearer</name>
+			<text>BE STRONG 
+			When you play this character, chosen character gains Challenger +2 this turn. 
+			(They get +2P while challenging.)</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="188" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mulan - Armored Fighter</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+				<pt>3/6</pt>
+			</prop>
+			<set num="189" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Philoctetes - No-Nonsense Instructor</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="190" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Piglet - Sturdy Swordsman</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors></colors>
+				<pt>3/5</pt>
+			</prop>
+			<set num="191" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rajah - Royal Protector</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="192" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raya - Unstoppable Force</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors></colors>
+				<pt>3/6</pt>
+			</prop>
+			<set num="193" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yao - Imperial Soldier</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+				<pt>2/5</pt>
+			</prop>
+			<set num="194" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Avalanche</name>
 			<text>Placeholder</text>
 			<prop>
 				<type>Action</type>
 				<maintype>Sorcery</maintype>
-				<manacost>00</manacost>
-				<colors>U</colors>
+				<manacost>4</manacost>
+				<colors></colors>
 			</prop>
-			<set num="X" rarity="legendary">URN</set>
+			<set num="195" rarity="legendary">URN</set>
 			<tablerow>3</tablerow>
 		</card>
+    	<card>
+			<name>I Find 'Em I Flatten 'Em</name>
+			<text>(A character with cost 4 or more can {T} to sing this song for free.)
+Banish all items.</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+			</prop>
+			<set num="196" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>One Last Hope</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+			</prop>
+			<set num="197" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>The Mob Song</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>10</manacost>
+				<colors></colors>
+			</prop>
+			<set num="198" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Triton's Decree</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<colors></colors>
+			</prop>
+			<set num="199" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fortisphere</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors></colors>
+			</prop>
+			<set num="200" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imperial Bow</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+			</prop>
+			<set num="201" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RLS Legacy's Cannon</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+			</prop>
+			<set num="202" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Wall - Border Fortress</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+				<pt>2/8</pt>
+			</prop>
+			<set num="203" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thebes - The Big Olive</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+				<pt>1/7</pt>
+			</prop>
+			<set num="204" rarity="legendary">URN</set>
+			<tablerow>3</tablerow>
+		</card>
+
+
     </cards>
 </cockatrice_carddatabase>
