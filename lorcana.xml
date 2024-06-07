@@ -143,7 +143,7 @@
 			</prop>
 			<set num="135" rarity="rare">INK</set>
 			<set num="27" rarity="rare">DEV</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>How Far I'll Go</name>
@@ -156,7 +156,7 @@
 			</prop>
 			<set num="161" rarity="uncommon">INK</set>
 			<set num="28" rarity="uncommon">DEV</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>John Silver - Greedy Treasure Seeker</name>
@@ -5774,7 +5774,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/4</pt>
 			</prop>
 			<set num="32" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Pride Lands - Pride Rock</name>
@@ -5787,7 +5787,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>2/7</pt>
 			</prop>
 			<set num="33" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Tiana's Palace - Jazz Restaurant</name>
@@ -5800,7 +5800,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>2/8</pt>
 			</prop>
 			<set num="34" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Alice - Tea Alchemist</name>
@@ -6210,7 +6210,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/6</pt>
 			</prop>
 			<set num="66" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>The Queen's Castle - Mirror Chamber</name>
@@ -6223,7 +6223,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/7</pt>
 			</prop>
 			<set num="67" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>The Sorcerer's Tower - Wondrous Workspace</name>
@@ -6236,7 +6236,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>2/7</pt>
 			</prop>
 			<set num="68" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Cubby - Mighty Lost Boy</name>
@@ -6633,10 +6633,10 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/4</pt>
 			</prop>
 			<set num="100" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Fan - River City</name>
+			<name>Fang - River City</name>
 			<text>Placeholder</text>
 			<prop>
 				<type>Location</type>
@@ -6646,7 +6646,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>2/6</pt>
 			</prop>
 			<set num="101" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Kuzco's Palace - Home of the Emperor</name>
@@ -6659,7 +6659,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>3/7</pt>
 			</prop>
 			<set num="102" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Ariel - Adventurous Collector</name>
@@ -7069,7 +7069,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/5</pt>
 			</prop>
 			<set num="134" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>RLS Legacy - Solar Galleon</name>
@@ -7082,7 +7082,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>3/8</pt>
 			</prop>
 			<set num="136" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Audrey Ramirez - The Engineer</name>
@@ -7464,7 +7464,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>2/6</pt>
 			</prop>
 			<set num="168" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>McDuck Manor - Scrooge's Mansion</name>
@@ -7477,7 +7477,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/9</pt>
 			</prop>
 			<set num="169" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Motonui - Island Paradise</name>
@@ -7490,7 +7490,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/5</pt>
 			</prop>
 			<set num="170" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Chief Tui</name>
@@ -7533,13 +7533,13 @@ Deal 2 damage to each opposing character.</text>
 		</card>
 		<card>
 			<name>Hades - Hotheaded Ruler</name>
-			<text>Placeholder</text>
+			<text>{T} - Ready your Titan characters.}</text>
 			<prop>
 				<type>Creature - Storyborn Villain Deity</type>
 				<maintype>Creature</maintype>
 				<manacost>6</manacost>
 				<colors></colors>
-				<pt>3/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<set num="174" rarity="legendary">INK</set>
 			<tablerow>1</tablerow>
@@ -7886,7 +7886,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/5</pt>
 			</prop>
 			<set num="202" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Nottingham - Prince John's Castle</name>
@@ -7899,7 +7899,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/6</pt>
 			</prop>
 			<set num="203" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>The Bayou - Mysterious Swamp</name>
@@ -7912,7 +7912,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/3</pt>
 			</prop>
 			<set num="204" rarity="legendary">INK</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Agustin Madrigal</name>
@@ -8343,7 +8343,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>2/6</pt>
 			</prop>
 			<set num="33" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>The Underworld - River Styx</name>
@@ -8356,7 +8356,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>2/6</pt>
 			</prop>
 			<set num="34" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Antonio Madrigal - Animal Expert</name>
@@ -8779,7 +8779,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>1/6</pt>
 			</prop>
 			<set num="67" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Ursula's Lair - Eye of the Storm</name>
@@ -8792,7 +8792,7 @@ Deal 2 damage to each opposing character.</text>
 				<pt>2/6</pt>
 			</prop>
 			<set num="68" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Cri-Kee - Lucky Cricket</name>
@@ -9219,7 +9219,7 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 				<pt>1/6</pt>
 			</prop>
 			<set num="101" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Ursula's Garden - Full of the Unfortunate</name>
@@ -9232,7 +9232,7 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 				<pt>2/7</pt>
 			</prop>
 			<set num="102" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Beast - Wounded</name>
@@ -9555,7 +9555,7 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Tik Tik - Lively Partner</name>
+			<name>Tuk Tuk - Lively Partner</name>
 			<text>Placeholder</text>
 			<prop>
 				<type>Creature - Storyborn Ally</type>
@@ -9662,7 +9662,7 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 				<pt>2/9</pt>
 			</prop>
 			<set num="135" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Training Grounds - Impossible Pillar</name>
@@ -9675,7 +9675,7 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 				<pt>1/5</pt>
 			</prop>
 			<set num="136" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Anna - Braving the Storm</name>
@@ -10107,7 +10107,7 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 				<pt>2/7</pt>
 			</prop>
 			<set num="169" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Winter Camp - Medical Tent</name>
@@ -10120,7 +10120,7 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 				<pt>1/8</pt>
 			</prop>
 			<set num="170" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Aladdin - Brave Rescuer</name>
@@ -10531,7 +10531,7 @@ Banish all items.</text>
 				<pt>2/8</pt>
 			</prop>
 			<set num="203" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Thebes - The Big Olive</name>
@@ -10544,7 +10544,7 @@ Banish all items.</text>
 				<pt>1/7</pt>
 			</prop>
 			<set num="204" rarity="legendary">URN</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
     </cards>
 </cockatrice_carddatabase>
