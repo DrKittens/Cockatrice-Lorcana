@@ -31,6 +31,12 @@
             <settype>Lorcana</settype>
             <releasedate>2023-08-18</releasedate>
         </set>
+		<set>
+            <name>SKY</name>
+            <longname>Ursula's Return</longname>
+            <settype>Lorcana</settype>
+            <releasedate>2023-08-18</releasedate>
+        </set>
     </sets>
 	<cards>
 		<card>
@@ -5757,7 +5763,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Item</type>
 				<maintype>Artifact</maintype>
-				<manacost>2</manacost>
+				<manacost>2</manacost>giot
 				<colors>W</colors>
 			</prop>
 			<set num="31" rarity="legendary">INK</set>
@@ -8808,7 +8814,7 @@ Deal 2 damage to each opposing character.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Diable - Devoted Herald</name>
+			<name>Diablo - Devoted Herald</name>
 			<text>Placeholder</text>
 			<prop>
 				<type>Creature - Floodborn Ally</type>
@@ -8821,7 +8827,7 @@ Deal 2 damage to each opposing character.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Diable - Maleficent's Spy</name>
+			<name>Diablo - Maleficent's Spy</name>
 			<text>Placeholder</text>
 			<prop>
 				<type>Creature - Storyborn Ally</type>
@@ -9525,7 +9531,7 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Sisu - Empowering Sibling</name>
+			<name>Sisu - Empowered Sibling</name>
 			<text>Shift 6 
 			You may pay 6 ⬡ to play this on top of one of your characters named Sisu.)
 			
