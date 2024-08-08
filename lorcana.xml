@@ -5763,7 +5763,7 @@ Deal 2 damage to each opposing character.</text>
 			<prop>
 				<type>Item</type>
 				<maintype>Artifact</maintype>
-				<manacost>2</manacost>giot
+				<manacost>2</manacost>
 				<colors>W</colors>
 			</prop>
 			<set num="31" rarity="legendary">INK</set>
