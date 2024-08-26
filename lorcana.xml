@@ -10552,5 +10552,2603 @@ Banish all items.</text>
 			<set num="204" rarity="legendary">URN</set>
 			<tablerow>1</tablerow>
 		</card>
+		<card>
+			<name>Koda - Talkative Cub</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+				<pt>2/1</pt>
+			</prop>
+			<set num="1" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nala - Mischievous Cub</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>W</colors>
+				<pt>0/4</pt>
+			</prop>
+			<set num="2" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince Naveen - Ukulele Player</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="3" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rutt - Northern Moose</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="4" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kenai - Big Brother</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="5" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vanellope Von Schweetz - Sugar Rush Champ</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>W</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="6" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tuke - Northern Moose</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>W</colors>
+				<pt>4/4</pt>
+			</prop>
+			<set num="7" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lilo - Junior Cake Decorator</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="8" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vanellope Von Schweetz - Candy Mechanic</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Princess Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>00</manacost>
+				<colors>W</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="9" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fix-It Felix Jr - Trusty Builder</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="10" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gazelle - Pop star</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="11" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fix-It Felix Jr - Niceland Steward</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>W</colors>
+				<pt>4/5</pt>
+			</prop>
+			<set num="12" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kristoff - Reindeer Keeper</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<colors>W</colors>
+				<pt>3/7</pt>
+			</prop>
+			<set num="13" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mirabel Madrigal - Family Gatherer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>W</colors>
+				<pt>5/5</pt>
+			</prop>
+			<set num="14" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Minne Mouse - Drum Major</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>W</colors>
+				<pt>4/4</pt>
+			</prop>
+			<set num="15" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daisy Duck - Donald's Date</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>00</manacost>
+				<colors>W</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="16" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fix-It Felix Jr - Delighted Sightseer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="17" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Moana - Determined Explorer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="18" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vanellope Von Schweetz - Sugar Rush Princess</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero Princess Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>19</manacost>
+				<colors>W</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="19" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alan-A-Dale - Rockin Rooster</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="20" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wreck-It Ralph - Admiral Underpants</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>W</colors>
+				<pt>6/7</pt>
+			</prop>
+			<set num="21" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maid Marian - Lady of the Lists</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>W</colors>
+				<pt>4/5</pt>
+			</prop>
+			<set num="22" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sven - Reindeer Steed</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="23" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Minnie Mouse - Compassionate Friend</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+				<pt>1/5</pt>
+			</prop>
+			<set num="24" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Try Everything</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="25" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Healing Touch</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="26" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Revive</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="27" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Blast From Your Past</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="28" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Invited To The Ball</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="29" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Healing Decanter</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="30" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Queen's Sensor Core</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="31" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amber Chromicon</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>32</manacost>
+				<colors>W</colors>
+			</prop>
+			<set num="32" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rapunzel's Tower</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>2</manacost>
+				<colors>W</colors>
+				<pt>1/8</pt>
+			</prop>
+			<set num="33" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pride Lands</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>3</manacost>
+				<colors>W</colors>
+				<pt>2/8</pt>
+			</prop>
+			<set num="34" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Malefica - Regina Temibile</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Villain Queen Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<colors>B</colors>
+				<pt>7/7</pt>
+			</prop>
+			<set num="35" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Nokk - Mythical Spirit</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>B</colors>
+				<pt>5/5</pt>
+			</prop>
+			<set num="36" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cogsworth - Illuminary Watchman</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>B</colors>
+				<pt>1/1</pt>
+			</prop>
+			<set num="37" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Merlin - Turtle</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Mentor Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="38" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Archimedes - Exasperated Owl</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="39" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bruni - Fire Salamander</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="40" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Earth Giant - Living Mountain</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>4/5</pt>
+			</prop>
+			<set num="41" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gale - Wind Spirit</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="42" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>White Rabbit - Royal Herald</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="43" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Madam Mim - Elephant</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>3/7</pt>
+			</prop>
+			<set num="44" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Luisa Madrigal - Entertaining Muscle</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>W</colors>
+				<pt>4/8</pt>
+			</prop>
+			<set num="45" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anna - Mystical Majesty</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero Queen Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>B</colors>
+				<pt>4/5</pt>
+			</prop>
+			<set num="46" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Archimedes - Electrified Owl</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>00</manacost>
+				<colors>B</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="47" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elsa - The Fifth Spirit</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Queen Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>B</colors>
+				<pt>2/5</pt>
+			</prop>
+			<set num="48" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Genie - Main Attraction</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>B</colors>
+				<pt>5/5</pt>
+			</prop>
+			<set num="49" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Olaf - Happy Passenger</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>50</manacost>
+				<colors>B</colors>
+				<pt>6/6</pt>
+			</prop>
+			<set num="50" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maleficent - Vexed Partygoer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>0/4</pt>
+			</prop>
+			<set num="51" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Monstro - Whale of a Whale</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>B</colors>
+				<pt>5/6</pt>
+			</prop>
+			<set num="52" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magica De Spell - Cruel Sorceress</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>2/5</pt>
+			</prop>
+			<set num="53" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maleficent - Vengeful Sorceress</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="54" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rafiki - Shaman Duelist</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Mentor Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="55" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anna - Eager Acolyte</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Queen</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="56" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>King of Hearts - Monarch of Wonderland</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally King</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>B</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="57" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Camilo Madrigal - Family Copycat</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Madrigal</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>B</colors>
+				<pt>3/7</pt>
+			</prop>
+			<set num="58" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hypnotic Strength</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="59" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Finders Keepers</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="60" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>We Know The Way</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>61</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="61" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Gathering Knowledge And Wisdom</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="62" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Magical Aid</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="63" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Retrosphere</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="64" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Half Hexwell Crown</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="65" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amethyst Chromicon</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>B</colors>
+			</prop>
+			<set num="66" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elsa's Ice Palace - Place of Solitude</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>3</manacost>
+				<colors>B</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="67" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Library - A Gift for Belle</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>68</manacost>
+				<colors>B</colors>
+				<pt>1/8</pt>
+			</prop>
+			<set num="68" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Robin Hood - Timely Contestant</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<colors>G</colors>
+				<pt>6/6</pt>
+			</prop>
+			<set num="69" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shenzi - Scar's Accomplice</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Hyena</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="70" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Little John - Camp Cook</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Camp Cook</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>G</colors>
+				<pt>0/4</pt>
+			</prop>
+			<set num="71" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zazu - Advisor to Mufasa</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+				<pt>3/5</pt>
+			</prop>
+			<set num="72" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ulf - Mime</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>73</manacost>
+				<colors>G</colors>
+				<pt>4/3</pt>
+			</prop>
+			<set num="73" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ed - Laughing Hyena</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Hyena</type>
+				<maintype>Creature</maintype>
+				<manacost>74</manacost>
+				<colors>G</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="74" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flora - Good Fairy</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Fairy</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="75" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Merryweather - Good Fairy</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Fairy</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>G</colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="76" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Robin Hood - Archery Contest</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="77" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fauna - Good Fairy</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Fairy</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+				<pt>3/7</pt>
+			</prop>
+			<set num="78" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iago - Fake Flamingo</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="79" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Banzai - Gluttonous Predator</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Hyena</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+				<pt>3/2</pt>
+			</prop>
+			<set num="80" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ed - Hysterical Partygoer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Hyena</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="81" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scroop - Odious Mutineer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Alien Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>2/1</pt>
+			</prop>
+			<set num="82" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince Phillip - Swordsman of the Realm</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>G</colors>
+				<pt>3/9</pt>
+			</prop>
+			<set num="83" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clarabelle - Light on Her Hooves</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>G</colors>
+				<pt>5/6</pt>
+			</prop>
+			<set num="84" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anna - Diplomatic Queen</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Queen</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="85" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clarabelle - Clumsy Guest</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>G</colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="86" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Banzai - Taunting Hyena</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Hyena</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="87" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Robin Hood - Sneaky Sleuth</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+				<pt>3/5</pt>
+			</prop>
+			<set num="88" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mother Gothel - Conceited Manipulator</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="89" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clarabelle - Contented Wallflower</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="90" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shenzi - Head Hyena</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Hyena</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>G</colors>
+				<pt>3/6</pt>
+			</prop>
+			<set num="91" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mother Gothel - Unwavering Schemer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>G</colors>
+				<pt>4/6</pt>
+			</prop>
+			<set num="92" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scar - Vengeful Lion</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+				<pt>4/2</pt>
+			</prop>
+			<set num="93" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Hypnotic Deduction</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="94" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Night Howler Rage</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="95" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>You're Welcome</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="96" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Remember Who You Are</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>97</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="97" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prince John's Mirror</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="98" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Obscurosphere</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="99" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Emerald Chromicon</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+			</prop>
+			<set num="100" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sherwood Forest - Outlaw Hideaway</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>2</manacost>
+				<colors>G</colors>
+				<pt>2/7</pt>
+			</prop>
+			<set num="101" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tropical Rainforest - Jaguar Lair</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>3</manacost>
+				<colors>G</colors>
+				<pt>1/6</pt>
+			</prop>
+			<set num="102" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Taffyta Muttonfudge - Ruthless Rival</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>103</manacost>
+				<colors>R</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="103" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wreck-It Ralph - Demolition Dude</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="104" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maximus - Team Champion</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>105</manacost>
+				<colors>R</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="105" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Turbo - Royal Hack</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="106" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Donald Duck - Pie Slinger</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>R</colors>
+				<pt>3/6</pt>
+			</prop>
+			<set num="107" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rancis Fluggerbutter - Chocolate Charger</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>4/4</pt>
+			</prop>
+			<set num="108" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scar - Betrayer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>R</colors>
+				<pt>6/3</pt>
+			</prop>
+			<set num="109" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Snowanna Rainbeau - Cool Competitor</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - XXXXX</type>
+				<maintype>Creature</maintype>
+				<manacost>00</manacost>
+				<colors>R</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="110" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daisy Duck - Spotless Food-Fighter</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>111</manacost>
+				<colors>R</colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="111" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mickey Mouse - Enthusiastic Dancer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="112" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ratigan - Raging Rat</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>1/5</pt>
+			</prop>
+			<set num="113" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Taffyta Muttonfudge - Crowd Favorite</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="114" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Denahi - Avenging Brother</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn</type>
+				<maintype>Creature</maintype>
+				<manacost>115</manacost>
+				<colors>R</colors>
+				<pt>7/5</pt>
+			</prop>
+			<set num="115" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pete - Steamboat Rival</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>R</colors>
+				<pt>6/6</pt>
+			</prop>
+			<set num="116" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Taffyta Muttonfudge - Sour Speedster</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Ally Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="117" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Robin Hood - Sharpshooter</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="118" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gaston - Pure Paragon</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn VIllain</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<colors>R</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="119" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pete - Pastry Chomper</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>4/3</pt>
+			</prop>
+			<set num="120" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arthur - Novice Sparrow</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="121" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Donald  Duck - Daisy's Date</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>122</manacost>
+				<colors>R</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="122" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ratigan - Party Crasher</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - FLoodborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors>R</colors>
+				<pt>5/5</pt>
+			</prop>
+			<set num="123" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vanellope Von Scheetz - Random Roster Racer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Princess Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="124" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Simba - Adventurous Successor</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+				<pt>2/1</pt>
+			</prop>
+			<set num="125" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Minnie Mouse - Dazzling Dancer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="126" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Break Free</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="127" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Evil Comes Prepared</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="128" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Don't Let The Frostbite Bite</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>7</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="129" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Glimmer vs Glimmer</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="130" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Who's With Me</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="131" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Potion of Might</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="132" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Sword Released</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="133" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ruby Chromicon</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="134" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sugar Rush Speedway</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="135" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ratigan's Party</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>R</colors>
+			</prop>
+			<set num="136" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>King Candy - Sovereign of Sugar</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="137" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chaca - Impressive Daughter</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="138" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Queen - Cruelest of All</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="139" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scrooge McDuck - Afficionado of Antiquities</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>5/5</pt>
+			</prop>
+			<set num="140" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince John - Opportunistic Briber</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Villain Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>1/5</pt>
+			</prop>
+			<set num="141" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Merlin - Back from Bermuda</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Mentor Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="142" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pacha = Emperor's Guide</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+				<pt>0/4</pt>
+			</prop>
+			<set num="143" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Queen - Fairest of All</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Villain Queen Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>U</colors>
+				<pt>2/6</pt>
+			</prop>
+			<set num="144" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sheriff of Nottingham - Bushel Britches</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<colors>U</colors>
+				<pt>5/9</pt>
+			</prop>
+			<set num="145" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chicha - Dedicated Mother</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+				<pt>2/1</pt>
+			</prop>
+			<set num="146" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prince John - Gold Lover</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="147" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Queen - Crown of the Council</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Queen Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>3/2</pt>
+			</prop>
+			<set num="148" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kuzco - Selfish Emperor</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn King</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>U</colors>
+				<pt>3/5</pt>
+			</prop>
+			<set num="149" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mufasa - Ruler of Pride Rock</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Mentor King</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<colors>U</colors>
+				<pt>4/9</pt>
+			</prop>
+			<set num="150" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ludwig Von Drake - Self-Proclaimed Genius</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>U</colors>
+				<pt>4/4</pt>
+			</prop>
+			<set num="151" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Minnie Mouse - Quick-Thinking Inventor</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Inventor</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>U</colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="152" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Basil - Practiced Detective</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors>U</colors>
+				<pt>2/1</pt>
+			</prop>
+			<set num="153" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>King Candy - Sweet Abomination</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Villain King Racer</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>U</colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="154" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Donald Duck - Focused Flatfoot</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors>U</colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="155" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tanana - Wise Woman</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="156" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tipo - Growing Son</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="157" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Belle - Of the Ball</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+				<pt>2/3</pt>
+			</prop>
+			<set num="158" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Merlin - Intellectual Visionary</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Mentor Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors>U</colors>
+				<pt>3/7</pt>
+			</prop>
+			<set num="159" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Vision Of The Future</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>160</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="160" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Royal Tantrum</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="161" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Ever As Before</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="162" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Hide Away</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="163" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>All Funned Out</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="164" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Medal Of Heroes</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="165" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Basil's Magnifying Glass</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="166" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Merlin's Carpetbag</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="167" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sapphire Chromicon</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="168" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Great Illuminary</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="169" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Merlin's Cottage</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors>U</colors>
+			</prop>
+			<set num="170" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stitch - Team Underdog</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="171" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jafar - Tyrannical Hypnotist</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Villain Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors></colors>
+				<pt>0/7</pt>
+			</prop>
+			<set num="172" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Simba - Lost Prince</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero Prince</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>2/4</pt>
+			</prop>
+			<set num="173" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rudy - Groove Disrupter</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors></colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="174" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Royal Guard - Bovine Protector</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn</type>
+				<maintype>Creature</maintype>
+				<manacost>175</manacost>
+				<colors></colors>
+				<pt>1/7</pt>
+			</prop>
+			<set num="175" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mickey Mouse - Food Fight Defender</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors></colors>
+				<pt>1/2</pt>
+			</prop>
+			<set num="176" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sleepy - Sluggish Knight</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally Knight Seven Dwarfs</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+				<pt>0/4</pt>
+			</prop>
+			<set num="177" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kronk - Unlicensed Investigator</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+				<pt>1/4</pt>
+			</prop>
+			<set num="178" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>HeiHei - Protective Rooster</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors></colors>
+				<pt>4/5</pt>
+			</prop>
+			<set num="179" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sneezy - Noisy Knight</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally Knight Seven Dwarfs</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="180" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dopey - Knight Apprentice</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally Knight Seven Dwarfs</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>2/2</pt>
+			</prop>
+			<set num="181" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Namaari - Resolute Daughter</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Villain Princess</type>
+				<maintype>Creature</maintype>
+				<manacost>9</manacost>
+				<colors></colors>
+				<pt>5/5</pt>
+			</prop>
+			<set num="182" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Snow White - Fair-Hearted</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Hero Princess Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<colors></colors>
+				<pt>3/5</pt>
+			</prop>
+			<set num="183" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yzma - Unjustly Treated</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Villain Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>184</manacost>
+				<colors></colors>
+				<pt>1/5</pt>
+			</prop>
+			<set num="184" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kronk - Head of Security</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Ally Captain</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors></colors>
+				<pt>6/6</pt>
+			</prop>
+			<set num="185" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grumpy - Skeptical Knight</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally Knight Seven Dwarfs</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>3/1</pt>
+			</prop>
+			<set num="186" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pete - Wrestling Champ</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="187" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sir Ector - Castle Lord</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors></colors>
+				<pt>7/10</pt>
+			</prop>
+			<set num="188" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bashful - Adoring Knight</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally Knight Seven Dwarfs</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="189" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arthur - Wart</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Storyborn Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+				<pt>3/4</pt>
+			</prop>
+			<set num="190" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Happy - Lively Knight</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally Knight Seven Dwarfs</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<colors></colors>
+				<pt>2/1</pt>
+			</prop>
+			<set num="191" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Simba - Son of Mufasa</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero King</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors></colors>
+				<pt>3/5</pt>
+			</prop>
+			<set num="192" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Doc - Bold Knight</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Ally Knight Seven Dwarfs</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+				<pt>1/3</pt>
+			</prop>
+			<set num="193" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arthur - King Victorious</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Floodborn Hero King</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<colors></colors>
+				<pt>3/6</pt>
+			</prop>
+			<set num="194" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pete - Games Referee</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>3/3</pt>
+			</prop>
+			<set num="195" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+    	<card>
+			<name>Tug-Of-War</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5</manacost>
+				<colors></colors>
+			</prop>
+			<set num="196" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>When Will My Life Begin</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action - Song</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+			</prop>
+			<set num="197" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Duck For Cover!</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+			</prop>
+			<set num="198" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+    	<card>
+			<name>Food Fight!</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Action</type>
+				<maintype>Sorcery</maintype>
+				<manacost>199</manacost>
+				<colors></colors>
+			</prop>
+			<set num="199" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shield of Arendelle</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<colors></colors>
+			</prop>
+			<set num="200" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plate Armor</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<colors></colors>
+			</prop>
+			<set num="201" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Steel Chromicon</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Item</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<colors></colors>
+			</prop>
+			<set num="202" rarity="legendary">SKY</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bad-Anon - Villain Support Center</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>3</manacost>
+				<colors></colors>
+				<pt>2/7</pt>
+			</prop>
+			<set num="203" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seven Dwarfs' Mine</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Location</type>
+				<maintype>Land</maintype>
+				<manacost>2</manacost>
+				<colors></colors>
+				<pt>2/6</pt>
+			</prop>
+			<set num="204" rarity="legendary">SKY</set>
+			<tablerow>3</tablerow>
+		</card>
     </cards>
 </cockatrice_carddatabase>
