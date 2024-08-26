@@ -10662,7 +10662,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Dreamborn Hero Princess Racer</type>
 				<maintype>Creature</maintype>
-				<manacost>00</manacost>
+				<manacost>2</manacost>
 				<colors>W</colors>
 				<pt>2/2</pt>
 			</prop>
@@ -10753,7 +10753,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>00</manacost>
+				<manacost>1</manacost>
 				<colors>W</colors>
 				<pt>1/4</pt>
 			</prop>
@@ -10792,7 +10792,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Floodborn Hero Princess Racer</type>
 				<maintype>Creature</maintype>
-				<manacost>19</manacost>
+				<manacost>4</manacost>
 				<colors>W</colors>
 				<pt>2/4</pt>
 			</prop>
@@ -10954,7 +10954,7 @@ Banish all items.</text>
 			<prop>
 				<type>Item</type>
 				<maintype>Artifact</maintype>
-				<manacost>32</manacost>
+				<manacost>2</manacost>
 				<colors>W</colors>
 			</prop>
 			<set num="32" rarity="legendary">SKY</set>
@@ -11148,7 +11148,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Floodborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>00</manacost>
+				<manacost>5</manacost>
 				<colors>B</colors>
 				<pt>1/4</pt>
 			</prop>
@@ -11187,7 +11187,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>50</manacost>
+				<manacost>9</manacost>
 				<colors>B</colors>
 				<pt>6/6</pt>
 			</prop>
@@ -11328,7 +11328,7 @@ Banish all items.</text>
 			<prop>
 				<type>Action - Song</type>
 				<maintype>Sorcery</maintype>
-				<manacost>61</manacost>
+				<manacost>3</manacost>
 				<colors>B</colors>
 			</prop>
 			<set num="61" rarity="legendary">SKY</set>
@@ -11413,7 +11413,7 @@ Banish all items.</text>
 			<prop>
 				<type>Location</type>
 				<maintype>Land</maintype>
-				<manacost>68</manacost>
+				<manacost>3</manacost>
 				<colors>B</colors>
 				<pt>1/8</pt>
 			</prop>
@@ -11478,7 +11478,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>73</manacost>
+				<manacost>4</manacost>
 				<colors>G</colors>
 				<pt>4/3</pt>
 			</prop>
@@ -11491,7 +11491,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn Ally Hyena</type>
 				<maintype>Creature</maintype>
-				<manacost>74</manacost>
+				<manacost>3</manacost>
 				<colors>G</colors>
 				<pt>2/3</pt>
 			</prop>
@@ -11787,7 +11787,7 @@ Banish all items.</text>
 			<prop>
 				<type>Action</type>
 				<maintype>Sorcery</maintype>
-				<manacost>97</manacost>
+				<manacost>4</manacost>
 				<colors>G</colors>
 			</prop>
 			<set num="97" rarity="legendary">SKY</set>
@@ -11861,7 +11861,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn Ally Racer</type>
 				<maintype>Creature</maintype>
-				<manacost>103</manacost>
+				<manacost>2</manacost>
 				<colors>R</colors>
 				<pt>2/2</pt>
 			</prop>
@@ -11887,7 +11887,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>105</manacost>
+				<manacost>6</manacost>
 				<colors>R</colors>
 				<pt>3/4</pt>
 			</prop>
@@ -11952,7 +11952,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - XXXXX</type>
 				<maintype>Creature</maintype>
-				<manacost>00</manacost>
+				<manacost>3</manacost>
 				<colors>R</colors>
 				<pt>3/4</pt>
 			</prop>
@@ -11965,7 +11965,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn Hero</type>
 				<maintype>Creature</maintype>
-				<manacost>111</manacost>
+				<manacost>2</manacost>
 				<colors>R</colors>
 				<pt>2/2</pt>
 			</prop>
@@ -12017,7 +12017,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn</type>
 				<maintype>Creature</maintype>
-				<manacost>115</manacost>
+				<manacost>5</manacost>
 				<colors>R</colors>
 				<pt>7/5</pt>
 			</prop>
@@ -12108,7 +12108,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn Ally</type>
 				<maintype>Creature</maintype>
-				<manacost>122</manacost>
+				<manacost>3</manacost>
 				<colors>R</colors>
 				<pt>3/4</pt>
 			</prop>
@@ -12589,7 +12589,7 @@ Banish all items.</text>
 			<prop>
 				<type>Action</type>
 				<maintype>Sorcery</maintype>
-				<manacost>160</manacost>
+				<manacost>2</manacost>
 				<colors>U</colors>
 			</prop>
 			<set num="160" rarity="legendary">SKY</set>
@@ -12773,7 +12773,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Storyborn</type>
 				<maintype>Creature</maintype>
-				<manacost>175</manacost>
+				<manacost>4</manacost>
 				<colors></colors>
 				<pt>1/7</pt>
 			</prop>
@@ -12890,7 +12890,7 @@ Banish all items.</text>
 			<prop>
 				<type>Creature - Dreamborn Villain Sorcerer</type>
 				<maintype>Creature</maintype>
-				<manacost>184</manacost>
+				<manacost>4</manacost>
 				<colors></colors>
 				<pt>1/5</pt>
 			</prop>
@@ -13082,7 +13082,7 @@ Banish all items.</text>
 			<prop>
 				<type>Action</type>
 				<maintype>Sorcery</maintype>
-				<manacost>199</manacost>
+				<manacost>1</manacost>
 				<colors></colors>
 			</prop>
 			<set num="199" rarity="legendary">SKY</set>
