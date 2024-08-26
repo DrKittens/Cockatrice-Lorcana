@@ -10971,7 +10971,7 @@ Banish all items.</text>
 				<pt>1/8</pt>
 			</prop>
 			<set num="33" rarity="legendary">SKY</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Pride Lands</name>
@@ -10984,7 +10984,7 @@ Banish all items.</text>
 				<pt>2/8</pt>
 			</prop>
 			<set num="34" rarity="legendary">SKY</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Malefica - Regina Temibile</name>
@@ -11405,7 +11405,7 @@ Banish all items.</text>
 				<pt>3/4</pt>
 			</prop>
 			<set num="67" rarity="legendary">SKY</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>The Library - A Gift for Belle</name>
@@ -11418,7 +11418,7 @@ Banish all items.</text>
 				<pt>1/8</pt>
 			</prop>
 			<set num="68" rarity="legendary">SKY</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Robin Hood - Timely Contestant</name>
@@ -11840,7 +11840,7 @@ Banish all items.</text>
 				<pt>2/7</pt>
 			</prop>
 			<set num="101" rarity="legendary">SKY</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Tropical Rainforest - Jaguar Lair</name>
@@ -11853,7 +11853,7 @@ Banish all items.</text>
 				<pt>1/6</pt>
 			</prop>
 			<set num="102" rarity="legendary">SKY</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Taffyta Muttonfudge - Ruthless Rival</name>
@@ -13135,7 +13135,7 @@ Banish all items.</text>
 				<pt>2/7</pt>
 			</prop>
 			<set num="203" rarity="legendary">SKY</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Seven Dwarfs' Mine</name>
@@ -13148,7 +13148,7 @@ Banish all items.</text>
 				<pt>2/6</pt>
 			</prop>
 			<set num="204" rarity="legendary">SKY</set>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
     </cards>
 </cockatrice_carddatabase>
