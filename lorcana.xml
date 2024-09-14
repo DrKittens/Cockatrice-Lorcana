@@ -10324,6 +10324,19 @@ STRIKE TO THE HEART When you play this character, banish all opposing characters
 			<tablerow>1</tablerow>
 		</card>
 		<card>
+			<name>Magic Broom - Brigade Commander</name>
+			<text>Placeholder</text>
+			<prop>
+				<type>Creature - Dreamborn Broom</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<colors></colors>
+				<pt>2/6</pt>
+			</prop>
+			<set num="186" rarity="legendary">URN</set>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
 			<name>Mickey Mouse - Playful Sorcerer</name>
 			<text>Placeholder</text>
 			<prop>
